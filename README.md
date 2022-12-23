@@ -1,1 +1,1 @@
-# CSCI-585-Dtatabase-Systems
+# CSCI-585-Database-Systems
